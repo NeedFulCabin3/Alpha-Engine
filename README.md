@@ -1,4 +1,4 @@
-# alpha-engine
+# Alpha Engine
 > Event-driven algorithmic backtesting and live order execution suite for cryptocurrency trading strategies.
 
 ## Overview
